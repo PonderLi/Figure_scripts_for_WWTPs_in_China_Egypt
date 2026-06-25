@@ -1,0 +1,69 @@
+ID	n	group	Log2FC	VIP	Corr coef	HMDB class
+Taurocholic acid	1	Ctrl	4	3	0.5	Lipids and lipid–like molecules
+β-Resorcylic acid	2	Ctrl	4	2	0.6	Benzenoids
+Allocholic acid	3	Ctrl	3	2.5	0.5	Lipids and lipid–like molecules
+5-AMP	4	Ctrl	4	2.5	0.5	"Nucleosides, nucleotides, and analogues"
+Fumonisin B2	5	Ctrl	2	2	0.5	"Nucleosides, nucleotides, and analogues"
+Uridine 5′-monophosphate	6	Ctrl	2	2	0.5	"Nucleosides, nucleotides, and analogues"
+"10E,12Z-Octadecadienoic acid"	7	Ctrl	2	2.5	0.5	Lipids and lipid–like molecules
+Biliverdin	8	Ctrl	2	2	0	Organic acids and derivatives
+D-Sorbitol 6-phosphate	9	Ctrl	2	2	0.5	Organoheterocyclic compounds
+Cholic acid	10	Ctrl	2	2	0.7	Organic oxygen compounds
+(+)-ar-Turmerone	11	Ctrl	2	1.5	0	Organic nitrogen compounds
+Phosphocholine	12	Ctrl	2	0.5	0.5	Lipids and lipid–like molecules
+Nicotinic acid mononucleotide	13	Ctrl	2	2	0.5	Lipids and lipid–like molecules
+Pregnenatriol	14	Ctrl	1	2	0.5	Benzenoids
+Trimethylamine N-oxide	15	Ctrl	1	0.5	0.5	Organic acids and derivatives
+4′-Methoxyacetophenone	16	Ctrl	1	2	0	Organic nitrogen compounds
+Indoxylsulfuric acid	17	Ctrl	1	2	0	Lipids and lipid–like molecules
+Glycochenodeoxycholic Acid	18	Ctrl	1	0.5	0.5	Lipids and lipid–like molecules
+gamma-Muurolene	19	Ctrl	1	0.5	0	"Nucleosides, nucleotides, and analogues"
+6-Hydroxymelatonin	20	Ctrl	1	0.5	0.5	Benzenoids
+Glycocholic acid	21	Ctrl	1	0.5	0	Organooxygen compounds
+"(2E)-3-(3,4-diethoxyphenyl)acrylic acid"	22	Ctrl	1	0.5	0.5	Lipids and lipid–like molecules
+blank1	23	blank_2	0		0	
+blank2	24	blank_2	0		0	
+γ-Glutamylglutamine	25	Cis	1	0.5	-0.6	Benzenoids
+Norbuprenorphine	26	Cis	1	0.5	0	"Nucleosides, nucleotides, and analogues"
+Azelaic acid	27	Cis	1	0.5	0	Lipids and lipid–like molecules
+Bicine	28	Cis	1	0.5	-0.5	Benzenoids
+Uric Acid	29	Cis	1	0.5	0	"Nucleosides, nucleotides, and analogues"
+L-Phenylalanine	30	Cis	1	0.5	-0.6	Alkaloids and derivatives
+Leucylproline	31	Cis	1	0.5	0	Organic acids and derivatives
+"2,5-Dimethylamine"	32	Cis	1	0.5	-0.5	"Nucleosides, nucleotides, and analogues"
+Ala–Ile	33	Cis	1	0.5	0	Lipids and lipid–like molecules
+Astaxanthin	34	Cis	1	0.5	-0.6	"Nucleosides, nucleotides, and analogues"
+N-Acetyl–Leucine	35	Cis	1	0.5	0	Benzenoids
+Arachidonic acid	36	Cis	1	0.5	-0.5	Organooxygen compounds
+Arachidonic M1	37	Cis	1	0.5	0	Lipids and lipid–like molecules
+Beta-L-Lactose	38	Cis	1	0.5	-0.6	Organic nitrogen compounds
+L-Alanyl–L-Lysine	39	Cis	1	0.5	0	Lipids and lipid–like molecules
+Mesotrione	40	Cis	1	0.5	-0.3	Organic acids and derivatives
+2′-Isopropylmalate	41	Cis	1	0.5	0	Lipids and lipid–like molecules
+Spermidine	42	Cis	1	0.5	-0.5	Lipids and lipid–like molecules
+Valylproline	43	Cis	1	2	-0.4	"""Organic oxygen compounds"
+γ-Glutamyltyrosine	44	Cis	1	2	0	"Nucleosides, nucleotides, and analogues"
+Desoxycortone	45	Cis	1	0.5	-0.4	Lipids and lipid–like molecules
+Malonic acid	46	Cis	1	0.5	0	Organoheterocyclic compounds
+D-Raffinose	47	Cis	1	0.5	-0.5	Lipids and lipid–like molecules
+16(R)-HETE	48	Cis	1	0.5	0	Lipids and lipid–like molecules
+Valeric acid	49	Cis	1	0.5	0	Organic acids and derivatives
+Taurine	50	Cis	1	0.5	-0.3	Alkaloids and derivatives
+Glu–Gln	51	Cis	1	0.5	0	
+Morphine	52	Cis	1	2	0	Lipids and lipid–like molecules
+Melibiose	53	Cis	2	0.5	-0.6	Benzenoids
+Calcitriol	54	Cis	2	0.5	0	Lipids and lipid–like molecules
+Acetildenaf	55	Cis	2	0.5	0	Lipids and lipid–like molecules
+Medroxyprogesterone	56	Cis	2	0.5	0	
+Docosapentaenoic acid	57	Cis	2	0.5	0	"Nucleosides, nucleotides, and analogues"
+Homoveratric acid	58	Cis	2	0.5	-0.6	"""Organic oxygen compounds"
+Ecgonine methyl ester	59	Cis	2	1.5	-0.6	Benzenoids
+4-Anisic acid	60	Cis	2	2	-0.6	Lipids and lipid–like molecules
+Deoxycorticosterone	61	Cis	2	2	-0.6	"Nucleosides, nucleotides, and analogues"
+γ-Glutamylleucine	62	Cis	2	2.5	-0.7	Benzenoids
+γ-Glutamylmethionine	63	Cis	2	2.5	-0.5	"Nucleosides, nucleotides, and analogues"
+Celastrol	64	Cis	2	2	-0.6	Lipids and lipid–like molecules
+DI-Mevalonolactone	65	Cis	2	2	-0.6	Organooxygen compounds
+Homoveratrylamine	66	Cis	2	2	-0.7	Benzenoids
+blank3	67	blank_1	0			
+blank4	68	blank_1	0			
